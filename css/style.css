@@ -3,6 +3,11 @@ body{
     width: 90%;
     margin: auto;
 }
+#principal{
+    background-color: rgb(236, 198, 101);
+    width: 90%;
+    margin: auto;
+}
 header{
     background-color: burlywood;
     width: auto;
@@ -13,7 +18,7 @@ header{
     margin: 5%;
 }
 article{
-    text-align: :left;
+    text-align: left;
     width: 50%;
     float: left;
 }
