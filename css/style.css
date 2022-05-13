@@ -2,7 +2,6 @@ body{
     background-color: rgb(236, 198, 101);
     width: 90%;
     margin: auto;
-
 }
 header{
     background-color: burlywood;
@@ -10,15 +9,23 @@ header{
     margin: 0px auto;
     border: 1px solid black;
 }
-aside{
+#ramen{
+    margin: 5%;
+}
+article{
+    text-align: :left;
+    width: 50%;
+    float: left;
+}
+#videocancion{
     text-align: right;
+    float: left;
+}
+#delfinal{
+    width: auto;
+    margin: 0px auto;
 }
 #TDR{
     text-align: center;
 }
-#footer{
-    background-color: burlywood;
-    width: auto;
-    margin: 0px auto;
-    border: 1px solid black;
-}
+
